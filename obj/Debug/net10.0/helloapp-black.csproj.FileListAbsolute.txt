@@ -1,0 +1,14 @@
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/bin/Debug/net10.0/helloapp-black
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/bin/Debug/net10.0/helloapp-black.deps.json
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/bin/Debug/net10.0/helloapp-black.runtimeconfig.json
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/bin/Debug/net10.0/helloapp-black.dll
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/bin/Debug/net10.0/helloapp-black.pdb
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/helloapp-black.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/helloapp-black.AssemblyInfoInputs.cache
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/helloapp-black.AssemblyInfo.cs
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/helloapp-black.csproj.CoreCompileInputs.cache
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/helloapp-black.dll
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/refint/helloapp-black.dll
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/helloapp-black.pdb
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/helloapp-black.genruntimeconfig.cache
+/Users/matveymelnikov/ВУЗ/ОПД/git-takes-two/helloapp-black/obj/Debug/net10.0/ref/helloapp-black.dll
